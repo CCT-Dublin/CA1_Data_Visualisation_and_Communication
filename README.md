@@ -62,6 +62,6 @@ To run the project, make sure that the following three files are located in the 
 ```text
 CA1_Data_Visualisation_and_Communication/
 │
-├── Data Visualisation and Communication - CA1.ipynb
+├── CA1_Data_Visualisation_and_Communication.ipynb
 ├── all_data_M_2022.xlsx
 └── all_data_M_2023.xlsx
